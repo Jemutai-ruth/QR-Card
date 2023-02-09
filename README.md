@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://jemutai-ruth.github.io/QR-Card/)
+- Solution URL: [https://your-solution-url.com]
+- Live Site URL: [https://jemutai-ruth.github.io/QR-Card/]
 
 ## My process
 
@@ -46,6 +46,7 @@ The most challenging part was choosing the right CSS properties but in the end I
 
 To see how you can add code snippets, see below:
 
+```css
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 body{
@@ -69,6 +70,7 @@ body{
     text-align:center; 
     
 }
+```
 
 
 
@@ -80,15 +82,15 @@ I would love to continue focusing on improving my CSS properties editing skills.
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/) - This helped me understand some CSS basic concepts, I'd recommend it for begginers interested in learning CSS.
+- [W3SCHOOLS](https://www.w3schools.com/css/) - This helped me understand some CSS basic concepts, I'd recommend it for begginers interested in learning CSS.
 
 
 
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Jemutai-ruth/QR-Card)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jemutai-ruth)
+- Website - [Ruth Jemutai](https://github.com/Jemutai-ruth/QR-Card)
+- Frontend Mentor - [@jemutai-ruth](https://www.frontendmentor.io/profile/Jemutai-ruth)
 
 
 
