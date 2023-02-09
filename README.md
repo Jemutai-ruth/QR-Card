@@ -1,10 +1,102 @@
-# QR-Card
-A QR Card created using HTML and CSS that allows users to scan the QR-code and access content.
+# Frontend Mentor - QR code component solution
 
-LINK:
-https://jemutai-ruth.github.io/QR-Card/
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Answers
-1. A
-2. D
-3. A
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### Screenshot
+
+![](./screenshot.jpg)
+![](./sreenshot-mob.jpeg)
+
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://jemutai-ruth.github.io/QR-Card/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
+### What I learned
+
+The most challenging part was choosing the right CSS properties but in the end I managed to use My best judgement and got the above results. Patience and trusting yourself are some of the things that you'll need to do this especially if you are a begineer like me. Overall it was an exciting experience and a wonderful learning opportunity.
+
+To see how you can add code snippets, see below:
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.card{     
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.card-content{
+    background-color: hsl(0, 0%, 100%); 
+    border-radius:10px;     
+    padding: 10px; 
+    width: 255px;
+    height: 410px;
+    text-align:center; 
+    
+}
+
+
+
+### Continued development
+
+I would love to continue focusing on improving my CSS properties editing skills.
+
+
+
+### Useful resources
+
+- [Example resource 1](https://www.w3schools.com/css/) - This helped me understand some CSS basic concepts, I'd recommend it for begginers interested in learning CSS.
+
+
+
+
+## Author
+
+- Website - [Add your name here](https://github.com/Jemutai-ruth/QR-Card)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jemutai-ruth)
+
+
+
+
+
+
+
+
+
+
+
